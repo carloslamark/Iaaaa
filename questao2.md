@@ -3,7 +3,7 @@
 
 ### Estado Inicial: Uma torre com N discos de tamanho diferente na primeira haste, com as hastes B e C vazias.
 
-### Estado Objetivo: Todos os discos devem estar na terceira haste, na mesma ordem em que estavam na haste inicial.
+### Estado Objetivo: Todos os discos devem estar na terceira haste, ordenados pelo tamanho.
 
 
 # Use a função de Heurística sendo a quantidade de peças fora do lugar:
