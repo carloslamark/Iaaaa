@@ -81,7 +81,7 @@ O Aluno implementou a seguinte função:
 
                 # Realizar o movimento trocando o zero com o elemento adjacente
                 
-    #nova_matrix[linha, coluna], nova_matrix[nova_linha, nova_coluna] = nova_matrix[nova_linha, nova_coluna], nova_matrix[linha, coluna]
+    		# nova_matrix[linha, coluna], nova_matrix[nova_linha, nova_coluna] = nova_matrix[nova_linha, nova_coluna], nova_matrix[linha, coluna]
 
 		#nova_matrix[linha, coluna], nova_matrix[nova_linha, nova_coluna] = nova_matrix[linha, coluna], nova_matrix[nova_linha, nova_coluna]
 
